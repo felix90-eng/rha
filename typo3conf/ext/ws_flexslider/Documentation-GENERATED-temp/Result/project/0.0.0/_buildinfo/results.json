@@ -1,0 +1,31 @@
+{
+  "build_time": "2019-10-20 20:33:13",
+  "checksum": "140e73500e2f86ea244db4df705fea6f",
+  "checksum_ttl_seconds": 604800,
+  "copyright": "2014-2019",
+  "created": {
+    "html": 1
+  },
+  "email_notify_about_new_build": [],
+  "emails_user_from_project": [
+    "typo3yyyy@wapplersystems.de",
+    "typo3yyyy@wappler.systems"
+  ],
+  "gitdir": "/PROJECT",
+  "has_neutralized_links": 0,
+  "known_versions": {
+    "t3SphinxThemeRtd.VERSION": [
+      3,
+      6,
+      16
+    ],
+    "t3SphinxThemeRtd.__version__": "3.6.16"
+  },
+  "localization": "default",
+  "project": "TYPO3 Flexslider",
+  "publish_dir": "typo3cms/drafts/project/0.0.0",
+  "release": "1.5.11",
+  "t3author": "Sven Wappler",
+  "ter_extension": "0",
+  "version": "1.5.11"
+}

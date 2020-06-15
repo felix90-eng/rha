@@ -1,0 +1,27 @@
+
+observed files:
+===============
+Index.rst
+Includes.txt
+Appendix/Index.rst
+Installation/Index.rst
+Installation/Images.txt
+Introduction/Index.rst
+Screenshots/Index.rst
+Screenshots/Images.txt
+
+observed include files:
+=======================
+Includes.txt
+Installation/Images.txt
+Screenshots/Images.txt
+
+include files that could not be read (= no error):
+==================================================
+None.
+
+forbidden include files:
+========================
+None.
+
+exitcode=0

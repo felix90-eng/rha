@@ -1,0 +1,53 @@
+<div class="container-fluid">
+
+
+<div class="container">
+  <header id="header">
+      <f:render partial="header_top" arguments="{_all}"/>
+
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <article class="img-slide">
+              <f:render section="contentslider" />
+          </article>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-8 mainContent">
+          <div class="row">
+              <f:render section="contentmain" />
+          </div>
+
+        </div>
+        <div class="col-sm-4 rightcontent">
+            <div id="twitts">
+              <f:render section="contenttwitts" />
+              </div>
+            <div id="div-news">
+              <f:render section="contentnews" />
+            </div>
+            <div id="bestemp">
+              <f:render section="contentbestemp" />
+            </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <div id ="footer">
+            <f:render partial="footer" arguments="{_all}" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+
+  </div>
+
+  </div>
+  <!-- container -->
